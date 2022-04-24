@@ -34,3 +34,4 @@ C:\Users\testinium\OneDrive\Masaüstü\patika.dev\BookStore\WebApi\bin\Debug\net
 C:\Users\testinium\OneDrive\Masaüstü\patika.dev\BookStore\WebApi\obj\Debug\net5.0\WebApi.csproj.CopyComplete
 C:\Users\testinium\OneDrive\Masaüstü\patika.dev\BookStore\WebApi\obj\Debug\net5.0\refint\WebApi.dll
 C:\Users\testinium\OneDrive\Masaüstü\patika.dev\BookStore\WebApi\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\testinium\OneDrive\Masaüstü\patika.dev\BookStore\WebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
