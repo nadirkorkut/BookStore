@@ -28,12 +28,10 @@ namespace WebApi.Application.GenreOperations.UpdateGenre
             genre.IsActive = Model.IsActive;
             _context.SaveChanges();
         }
-    }
-    public class UpdateGenreModel
-    {
-        public string Name { get; set; }
-        public bool IsActive { get; set; } = true;
-        
-        
+        public class UpdateGenreModel
+        {
+            public string Name { get; set; }
+            public bool IsActive { get; set; } = true;     
+        }
     }
 }

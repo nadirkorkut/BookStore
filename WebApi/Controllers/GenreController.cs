@@ -7,6 +7,7 @@ using WebApi.Application.GenreOperations.Queries.GetGenreDetail;
 using WebApi.Application.GenreOperations.Queries.GetGenres;
 using WebApi.Application.GenreOperations.UpdateGenre;
 using WebApi.DBOperations;
+using static WebApi.Application.GenreOperations.UpdateGenre.UpdateGenreCommand;
 
 namespace WebApi.Controllers
 {
