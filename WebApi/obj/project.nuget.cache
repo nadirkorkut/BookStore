@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wDCQARSD2AB1zYQGiye8K57UAftnpjpYSV+G3fxBa31PbSct2qxd9HYOfLyLr+oh/bAMMHID7jfUXAdZIwu8Hw==",
+  "dgSpecHash": "uTPpY2NxD7SOmeS/PuTB6xtl/shypx+mjczhPOycO0JVm45aLlPQSKvhPInHRRG+BTy52TfNCIuQ3NIPd3sKkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\testinium\\OneDrive\\Masaüstü\\patika.dev\\BookStore\\WebApi\\WebApi.csproj",
+  "projectFilePath": "c:\\Users\\testinium\\OneDrive\\Masaüstü\\patika.dev\\BookStore\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\testinium\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\testinium\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
