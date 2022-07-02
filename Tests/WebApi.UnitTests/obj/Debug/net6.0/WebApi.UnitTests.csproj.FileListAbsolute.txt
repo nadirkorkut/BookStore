@@ -123,3 +123,10 @@ C:\Users\testinium\OneDrive\Masaüstü\patika.dev\BookStore\Tests\WebApi.UnitTes
 C:\Users\testinium\OneDrive\Masaüstü\patika.dev\BookStore\Tests\WebApi.UnitTests\obj\Debug\net6.0\WebApi.UnitTests.genruntimeconfig.cache
 C:\Users\testinium\OneDrive\Masaüstü\patika.dev\BookStore\Tests\WebApi.UnitTests\obj\Debug\net6.0\ref\WebApi.UnitTests.dll
 c:\Users\testinium\OneDrive\Masaüstü\patika.dev\BookStore\Tests\WebApi.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+c:\Users\testinium\OneDrive\Masaüstü\patika.dev\BookStore\Tests\WebApi.UnitTests\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+c:\Users\testinium\OneDrive\Masaüstü\patika.dev\BookStore\Tests\WebApi.UnitTests\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+c:\Users\testinium\OneDrive\Masaüstü\patika.dev\BookStore\Tests\WebApi.UnitTests\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+c:\Users\testinium\OneDrive\Masaüstü\patika.dev\BookStore\Tests\WebApi.UnitTests\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+c:\Users\testinium\OneDrive\Masaüstü\patika.dev\BookStore\Tests\WebApi.UnitTests\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\Users\testinium\OneDrive\Masaüstü\patika.dev\BookStore\Tests\WebApi.UnitTests\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+c:\Users\testinium\OneDrive\Masaüstü\patika.dev\BookStore\Tests\WebApi.UnitTests\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
